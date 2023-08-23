@@ -1,28 +1,28 @@
 html { font-family: sans-serif; background: #35223b; padding: 1rem; }
-body { max-width: 960px; margin: 0 auto; background: rgb(78, 36, 112); }
-h1 { font-family: serif; color: #17022b; margin: 1rem 0; }
+body { max-width: 960px; margin: 0 auto; background: rgb(89, 54, 117); }
+h1 { font-family: serif; color: #251930; margin: 1rem 0; }
 a { color: #1c0233; }
-hr { border: none; border-top: 1px solid rgb(78, 26, 26); }
-nav { background: rgb(155, 5, 185); display: flex; align-items: center; padding: 0 0.5rem; }
+hr { border: none; border-top: 1px solid rgb(82, 45, 45); }
+nav { background: rgb(170, 53, 194); display: flex; align-items: center; padding: 0 0.5rem; }
 nav h1 { flex: auto; margin: 0; }
 nav h1 a { text-decoration: none; padding: 0.25rem 0.5rem; }
 nav ul  { display: flex; list-style: none; margin: 0; padding: 0; }
 nav ul li a, nav ul li span, header .action { display: block; padding: 0.5rem; }
 .content { padding: 0 1rem 1rem; }
-.content > header { border-bottom: 1px solid rgb(177, 8, 8)16,17; display: flex; align-items: flex-end; }
+.content > header { border-bottom: 1px solid rgb(85, 35, 35)16,17; display: flex; align-items: flex-end; }
 .content > header h1 { flex: auto; margin: 1rem 0 0.25rem 0; }
-.flash { margin: 1em 0; padding: 1em; background: #460202; border: 1px solid #112635; }
+.flash { margin: 1em 0; padding: 1em; background: #462424; border: 1px solid #2c6186; }
 .post > header { display: flex; align-items: flex-end; font-size: 0.85em; }
 .post > header > div:first-of-type { flex: auto; }
 .post > header h1 { font-size: 1.5em; margin-bottom: 0; }
-.post .about { color: s#5d199c; font-style: italic; }
+.post .about { color: s#402e52; font-style: italic; }
 .post .body { white-space: pre-line; }
 .content:last-child { margin-bottom: 0; }
 .content form { margin: 1em 0; display: flex; flex-direction: column; }
 .content label { font-weight: bold; margin-bottom: 0.5em; }
 .content input, .content textarea { margin-bottom: 1em; }
 .content textarea { min-height: 12em; resize: vertical; }
-input.danger { color: #721cc2; }
+input.danger { color: #703f9e; }
 input[type=submit] { align-self: start; min-width: 10em; }
 
 
